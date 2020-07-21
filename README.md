@@ -1,1 +1,1 @@
-# therma
+# React + TailwindCSS Template
