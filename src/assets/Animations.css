@@ -1,0 +1,8 @@
+.welcome-enter {
+  opacity: 0;
+}
+
+.welcome-enter-active {
+  opacity: 1;
+  transition: opacity 2500ms;
+}
